@@ -1,0 +1,11 @@
+build/
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.exe
+*.json
+__pycache__/
+.DS_Store
+
