@@ -1,6 +1,6 @@
-# A CURE Clustering Approach for RFM-based Customer Segmentation
+# Local Size-Constrained CURE
 
-This repository provides the C++ implementation used for the paper **"A CURE Clustering Approach for RFM-based Customer Segmentation"**.
+This repository provides the C++ implementation of LSC-CURE algorithm, which is used for the paper **"A CURE Clustering Approach for RFM-based Customer Segmentation"**.
 
 For methodological details, please refer to the paper.
 
